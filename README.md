@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="100%" height="90" alt="CacheLib" src="Images/LogoPuc.png>
-</p>
-
 # Sistemas Distruibuidos para Redes Moveis.
 
 **🟡 Status:** Em Desenvolvimento
